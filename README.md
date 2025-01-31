@@ -1,6 +1,4 @@
-# emin
-
-A new Flutter project.
+# emin est une application de lavanderie en ligne
 
 ## Getting Started
 
